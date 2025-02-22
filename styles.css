@@ -1,1 +1,31 @@
-/*  your css code here. If applicable */
+
+.container {
+    width: 60%; 
+    margin: 50px auto; 
+    padding: 20px; 
+    border: 5px solid #000; 
+    border-radius: 30px; 
+    text-align: center; 
+}
+
+
+.red, .green, .yellow {
+    width: 100px; 
+    height: 100px; 
+    margin: 10px; 
+    border-radius: 50%; 
+    display: inline-block; 
+}
+
+
+.red {
+    background-color: red; /* Red color */
+}
+
+.green {
+    background-color: green; /* Green color */
+}
+
+.yellow {
+    background-color: yellow; /* Yellow color */
+}
